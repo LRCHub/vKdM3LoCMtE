@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "千の風になって",
+  "base_artist": "秋川雅史",
+  "createdAt": "2026-02-24T14:13:28.194356Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "千の風になって",
+      "artist": "秋川雅史",
+      "has_synced": true,
+      "path": "select/01_千の風になって_秋川雅史.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "千の風になって",
+      "artist": "秋川 雅史",
+      "has_synced": false,
+      "path": "select/pl_01_千の風になって_秋川_雅史.txt"
+    }
+  ]
+}
